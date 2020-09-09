@@ -1,4 +1,5 @@
 import React from 'react';
+import './components/FontawsomeIcons'
 import NavBar from './components/NavBar';
 import LanchPage from './components/LanchPage';
 
